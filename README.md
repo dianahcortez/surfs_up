@@ -16,6 +16,10 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 - Deliverable 2: Determine the Summary Statistics for December
 - Deliverable 3: A written report for the statistical analysis (README.md)
 
-## Results
+## Results (3 key differences in weather between June and December)
+
+
+
+## Summary (high level summary of results and two additional queries to perform to gather more weather data for june and december)
 
 
