@@ -13,16 +13,16 @@ The purpose of this analysis is to perform an analysis on weather data that has 
 - SQLAlchemy
 - Jupyter Notebook
 
-### Imported Depencencies
+#### Imported Depencencies
 <img width="500" alt="imported dependencies" src="https://user-images.githubusercontent.com/104927745/184415149-510427b2-86c5-4285-a5b1-59f132330814.PNG">
 
-### Flask app running in terminal of VS Code
+#### Flask app running in terminal of VS Code
 <img width="500" alt="vs code development flask server" src="https://user-images.githubusercontent.com/104927745/184415179-1aa9076e-c179-4ec7-8d91-d7356d855ba7.PNG">
 
-### Precipation Descriptions for 365 day period
+#### Precipation Descriptions for 365 day period
 <img width="500" alt="precipitation descriptions" src="https://user-images.githubusercontent.com/104927745/184415618-1ecd5088-64be-4308-b5af-90b0facf3ace.PNG">
 
-### Temperature Obersations for 365 day period
+#### Temperature Obersations for 365 day period
 <img width="500" alt="temperature observations" src="https://user-images.githubusercontent.com/104927745/184415650-c54db9ec-0b5c-48d8-9aa0-35ae7264d99b.PNG">
 
 ## Challenge Deliverables
