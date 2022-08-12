@@ -27,12 +27,13 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 ## Results 
 (3 key differences in weather between June and December)
 
-<img width="387" alt="june and december temps" src="https://user-images.githubusercontent.com/104927745/184415717-cea88ab8-7845-40a2-bdc0-702412dc4578.PNG">
+<img width="500" alt="june and december temps" src="https://user-images.githubusercontent.com/104927745/184415717-cea88ab8-7845-40a2-bdc0-702412dc4578.PNG">
 
 
 ## Summary 
 (high level summary of results) 
-(two additional queries to perform to gather more weather data for june and december)
+
+I performed two additinal queries to show a side by side easily viewable comparison of temperatures in both June and December.  The months in question of most concern by the client.
 
 <img width="500" alt="june precipitation and temperatures" src="https://user-images.githubusercontent.com/104927745/184415749-c01e10ef-198c-4cfd-a5b7-1b86ee94cd67.PNG">
 
