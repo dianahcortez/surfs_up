@@ -39,7 +39,7 @@ In comparing June and December there is only a slight variation in temperature o
 ## Summary 
 Overall the weather data analysis provided to the investor shows that his funding of this project would not be affected by adverse weather.  There is little variation in the average temperature from summer and winter months, as well as low risk of heavy/continuous rainfall that might affect customer visits/sales.  
 
-I performed two additinal queries to show a side by side easily viewable comparison of temperatures in both June and December.  The months in question of most concern by the client.
+I performed two additinal queries to show a side by side easily viewable comparison of temperatures and precipitation in both June and December.  The months in question of most concern by the client.
 
 <img width="500" alt="june precipitation and temperatures" src="https://user-images.githubusercontent.com/104927745/184415749-c01e10ef-198c-4cfd-a5b7-1b86ee94cd67.PNG">
 
