@@ -22,7 +22,7 @@ The purpose of this analysis is to perform an analysis on weather data that has 
 #### Precipation Descriptions for 365 day period
 <img width="500" alt="precipitation descriptions" src="https://user-images.githubusercontent.com/104927745/184415618-1ecd5088-64be-4308-b5af-90b0facf3ace.PNG">
 
-#### Temperature Obersations for 365 day period
+#### Temperature Observations for 365 day period
 <img width="500" alt="temperature observations" src="https://user-images.githubusercontent.com/104927745/184415650-c54db9ec-0b5c-48d8-9aa0-35ae7264d99b.PNG">
 
 ## Challenge Deliverables
