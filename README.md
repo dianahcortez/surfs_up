@@ -13,7 +13,7 @@ The purpose of this analysis is to perform an analysis on weather data that has 
 - SQLAlchemy
 - Jupyter Notebook
 
-#### Imported Depencencies
+#### Imported Dependencies
 <img width="500" alt="imported dependencies" src="https://user-images.githubusercontent.com/104927745/184415149-510427b2-86c5-4285-a5b1-59f132330814.PNG">
 
 #### Flask app running in terminal of VS Code
